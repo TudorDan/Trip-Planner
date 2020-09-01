@@ -1,8 +1,8 @@
 package com.codecool.utilties;
 
 public class Position {
-    private final double x;
-    private final double y;
+    public double x;
+    public double y;
 
     public Position(double x, double y) {
         this.x = x;
